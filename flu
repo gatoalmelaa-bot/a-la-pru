@@ -10,3 +10,15 @@ int main() {
     
     // 2. Operación matemática simple
     double desviacion = medida_real - 
+#include <iostream>  // Biblioteca estándar para entrada y salida de datos
+#include <string>    // Biblioteca para manejar cadenas de texto
+
+// Función principal: el punto de inicio de cualquier programa en C++
+int main() {
+    // 1. Declaración de variables básicas con su tipo de dato
+    std::string nombre_pieza = "Eje Central";
+    double medida_nominal = 25.50;  // Número con decimales
+    double medida_real = 25.53;
+    
+    // 2. Operación matemática simple
+    double desviacion = medida_real - 
