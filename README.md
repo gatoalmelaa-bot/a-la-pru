@@ -1,2 +1,0 @@
-# a-la-pru
-trakatan
